@@ -6,15 +6,15 @@
 
 <div>
   <a href-"https://github.com/AlineBCBenjamim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlineBCBenjamim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineBCBenjamim&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AlineBCBenjamim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineBCBenjamim&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
  <div style="display: inline_block"><br>
-  <img align="center" alt="Aline-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Aline-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Aline-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Aline-jogo" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/710314120808890430/905572838952566834/image_1635975564.gif">
+  <img align="center" alt="aline-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="aline-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="aline-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="aline-jogo" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/710314120808890430/905572838952566834/image_1635975564.gif">
 </div>
 
 ##
