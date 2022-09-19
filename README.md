@@ -2,6 +2,7 @@
 
 - 👩‍💻 Estudando Web Full Stack | HTML | CSS | JS
 - 😄 Pronomes: Ela/Dela 
+- 🌸 "Renda-se, como eu me rendi. Mergulhe no que você não conhece como eu mergulhei. Não se preocupe em entender, viver ultrapassa qualquer entendimento."
 
 🐺🦁🦊
 
