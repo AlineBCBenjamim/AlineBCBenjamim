@@ -2,7 +2,9 @@
 
 - 👩‍🎓 Em transição de carreira 
 - 👩‍💻 Estudando Web Full Stack | HTML | CSS | JS
-- 😄 Pronomes: Ela/Dela
+- 😄 Pronomes: Ela/Dela 
+
+🐺🦁🦊
 
 <div>
   <a href-"https://github.com/AlineBCBenjamim">
