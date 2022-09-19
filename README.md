@@ -16,6 +16,7 @@
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="<i class="devicon-adonisjs-original colori"></i>">
   <img align="right" alt="Foto Gif Jogo" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/710314120808890430/905572838952566834/image_1635975564.gif">
 </div>
 
