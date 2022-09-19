@@ -1,6 +1,5 @@
 ### Olá! Eu sou Aline 👋
 
-- 👩‍🎓 Em transição de carreira 
 - 👩‍💻 Estudando Web Full Stack | HTML | CSS | JS
 - 😄 Pronomes: Ela/Dela 
 
